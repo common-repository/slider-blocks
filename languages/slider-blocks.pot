@@ -1,0 +1,2207 @@
+# Copyright (C) 2024 Zakaria Binsaifullah
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: GutSlider - All in One Slider Blocks 2.7.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/slider-blocks\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-28T07:13:58+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: slider-blocks\n"
+
+#. Plugin Name of the plugin
+#: slider-blocks.php
+msgid "GutSlider - All in One Slider Blocks"
+msgstr ""
+
+#. Description of the plugin
+#: slider-blocks.php
+msgid "A collection of custom Gutenberg Slider Blocks to slide your content."
+msgstr ""
+
+#. Author of the plugin
+#: slider-blocks.php
+msgid "Zakaria Binsaifullah"
+msgstr ""
+
+#. Author URI of the plugin
+#: slider-blocks.php
+msgid "https://makegutenblock.com"
+msgstr ""
+
+#: admin/admin.php:62
+msgid "GutSlider"
+msgstr ""
+
+#: includes/classes/class-blocks-category.php:30
+#: src/admin/components/app.js:34
+msgid "GutSlider Blocks"
+msgstr ""
+
+#: src/admin/components/app.js:42
+msgid "Welcome"
+msgstr ""
+
+#: src/admin/components/app.js:48
+msgid "Blocks"
+msgstr ""
+
+#: src/admin/components/app.js:55
+#: src/blocks/any-content/inspector.js:102
+#: src/blocks/content-slider/inspector.js:152
+#: src/blocks/logo-carousel/inspector.js:127
+#: src/blocks/photo-carousel/inspector.js:124
+#: src/blocks/post-slider/inspector.js:258
+#: src/blocks/testimonial-slider/inspector.js:156
+#: src/blocks/videos-carousel/inspector.js:105
+msgid "GutSlider Pro"
+msgstr ""
+
+#: src/admin/components/blocks-parts/blocks.js:93
+msgid "Changes saved successfully."
+msgstr ""
+
+#: src/admin/components/blocks-parts/blocks.js:109
+msgid "Static"
+msgstr ""
+
+#: src/admin/components/blocks-parts/blocks.js:110
+msgid "Create sliders with fixed content. You can add images, text and button"
+msgstr ""
+
+#: src/admin/components/blocks-parts/blocks.js:116
+msgid "Flexible"
+msgstr ""
+
+#: src/admin/components/blocks-parts/blocks.js:117
+msgid "Create sliders with any content you want. You can add images, videos, text, buttons, and more."
+msgstr ""
+
+#: src/admin/components/blocks-parts/blocks.js:126
+#: src/blocks/testimonial-slider/inspector.js:302
+#: src/blocks/testimonial-slider/inspector.js:1037
+msgid "Testimonial"
+msgstr ""
+
+#: src/admin/components/blocks-parts/blocks.js:127
+msgid "Showcase your custom testimonials or reviews in sliding mode easily."
+msgstr ""
+
+#: src/admin/components/blocks-parts/blocks.js:133
+msgid "Photos"
+msgstr ""
+
+#: src/admin/components/blocks-parts/blocks.js:134
+msgid "Create an awesome carousel with your photos very easily in a short time."
+msgstr ""
+
+#: src/admin/components/blocks-parts/blocks.js:140
+msgid "Brand Logos"
+msgstr ""
+
+#: src/admin/components/blocks-parts/blocks.js:141
+msgid "Create an awesome carousel with your client logos very easily in a short time."
+msgstr ""
+
+#: src/admin/components/blocks-parts/blocks.js:147
+msgid "Before After"
+msgstr ""
+
+#: src/admin/components/blocks-parts/blocks.js:148
+msgid "Showcase Image Before After Comparison with this block"
+msgstr ""
+
+#: src/admin/components/blocks-parts/blocks.js:154
+msgid "Videos"
+msgstr ""
+
+#: src/admin/components/blocks-parts/blocks.js:155
+msgid "Showcase videos in a carousel with this block."
+msgstr ""
+
+#: src/admin/components/blocks-parts/blocks.js:161
+msgid "Blog Posts"
+msgstr ""
+
+#: src/admin/components/blocks-parts/blocks.js:162
+msgid "Showcase your posts in a slider with this block."
+msgstr ""
+
+#: src/admin/components/blocks-parts/single-block.js:18
+msgid "View Demo"
+msgstr ""
+
+#: src/admin/components/blocks.js:16
+msgid "Blocks List"
+msgstr ""
+
+#: src/admin/components/logs-parts/logs-head.js:10
+msgid "GutSlider Changelogs"
+msgstr ""
+
+#: src/admin/components/settings.js:18
+msgid "GutSlider Settings"
+msgstr ""
+
+#: src/admin/components/settings.js:29
+msgid "Assets Settings"
+msgstr ""
+
+#: src/admin/components/welcome.js:18
+msgid "Welcome to GutSlider Blocks"
+msgstr ""
+
+#: src/admin/components/welcome.js:19
+msgid "GutSlider Blocks is a Gutenberg block plugin that allows you to create sliders in the Gutenberg editor. Watch this video to get started."
+msgstr ""
+
+#: src/admin/components/welcome.js:26
+msgid "More Videos"
+msgstr ""
+
+#: src/admin/components/welcome.js:30
+msgid "Documentation"
+msgstr ""
+
+#: src/admin/components/welcome.js:38
+msgid "Report Bugs"
+msgstr ""
+
+#: src/admin/components/welcome.js:39
+msgid "If you have found a bug in GutSlider Blocks, please report it in our support forum. We will fix it as soon as possible."
+msgstr ""
+
+#: src/admin/components/welcome.js:44
+msgid "Report Now"
+msgstr ""
+
+#: src/admin/components/welcome.js:49
+msgid "Love the Plugin"
+msgstr ""
+
+#: src/admin/components/welcome.js:50
+msgid "If you love GutSlider Blocks, please leave us a review on WordPress.org. We appreciate your support!"
+msgstr ""
+
+#: src/admin/components/welcome.js:55
+msgid "Rate Now"
+msgstr ""
+
+#: src/admin/components/welcome.js:60
+#: src/admin/components/welcome.js:66
+msgid "Contact Us"
+msgstr ""
+
+#: src/admin/components/welcome.js:61
+msgid "If you have any questions or need help with GutSlider Blocks, please contact us. We are happy to help you!"
+msgstr ""
+
+#: src/blocks/any-content/edit.js:907
+#: src/blocks/content-slider/edit.js:334
+#: src/blocks/testimonial-slider/edit.js:329
+#: src/blocks/videos-carousel/edit.js:269
+msgid "Add Slide"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:106
+#: src/blocks/content-slider/inspector.js:497
+msgid "Slider Layout"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:108
+#: src/blocks/content-slider/inspector.js:499
+#: src/blocks/post-slider/inspector.js:264
+msgid "Slider Type"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:116
+msgid "Slider Container"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:118
+#: src/blocks/any-content/inspector.js:397
+#: src/blocks/any-content/inspector.js:515
+#: src/blocks/any-content/inspector.js:583
+#: src/blocks/content-slider/inspector.js:509
+#: src/blocks/content-slider/inspector.js:1042
+#: src/blocks/content-slider/inspector.js:1159
+#: src/blocks/content-slider/inspector.js:1227
+#: src/blocks/logo-carousel/inspector.js:177
+#: src/blocks/logo-carousel/inspector.js:574
+#: src/blocks/logo-carousel/inspector.js:691
+#: src/blocks/logo-carousel/inspector.js:759
+#: src/blocks/photo-carousel/inspector.js:148
+#: src/blocks/photo-carousel/inspector.js:536
+#: src/blocks/photo-carousel/inspector.js:653
+#: src/blocks/photo-carousel/inspector.js:721
+#: src/blocks/post-slider/inspector.js:396
+#: src/blocks/post-slider/inspector.js:1048
+#: src/blocks/post-slider/inspector.js:1165
+#: src/blocks/post-slider/inspector.js:1233
+#: src/blocks/testimonial-slider/inspector.js:620
+#: src/blocks/testimonial-slider/inspector.js:1213
+#: src/blocks/testimonial-slider/inspector.js:1330
+#: src/blocks/testimonial-slider/inspector.js:1398
+#: src/blocks/videos-carousel/inspector.js:259
+#: src/blocks/videos-carousel/inspector.js:511
+#: src/blocks/videos-carousel/inspector.js:628
+#: src/blocks/videos-carousel/inspector.js:696
+msgid "Height"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:126
+#: src/blocks/content-slider/inspector.js:517
+#: src/blocks/content-slider/inspector.js:955
+#: src/blocks/logo-carousel/inspector.js:185
+#: src/blocks/logo-carousel/inspector.js:407
+#: src/blocks/logo-carousel/inspector.js:492
+#: src/blocks/photo-carousel/inspector.js:156
+#: src/blocks/photo-carousel/inspector.js:386
+#: src/blocks/photo-carousel/inspector.js:454
+#: src/blocks/post-slider/inspector.js:404
+#: src/blocks/post-slider/inspector.js:960
+#: src/blocks/testimonial-slider/inspector.js:628
+#: src/blocks/testimonial-slider/inspector.js:943
+#: src/blocks/testimonial-slider/inspector.js:1126
+#: src/blocks/videos-carousel/inspector.js:267
+#: src/blocks/videos-carousel/inspector.js:486
+msgid "Padding"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:133
+#: src/blocks/content-slider/inspector.js:524
+#: src/blocks/content-slider/inspector.js:962
+#: src/blocks/logo-carousel/inspector.js:192
+#: src/blocks/photo-carousel/inspector.js:163
+#: src/blocks/post-slider/inspector.js:411
+#: src/blocks/post-slider/inspector.js:833
+#: src/blocks/post-slider/inspector.js:875
+#: src/blocks/post-slider/inspector.js:917
+#: src/blocks/post-slider/inspector.js:967
+#: src/blocks/testimonial-slider/inspector.js:635
+#: src/blocks/testimonial-slider/inspector.js:950
+#: src/blocks/testimonial-slider/inspector.js:1133
+#: src/blocks/videos-carousel/inspector.js:274
+msgid "Margin"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:140
+#: src/blocks/content-slider/inspector.js:531
+#: src/blocks/testimonial-slider/inspector.js:642
+msgid "Content"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:142
+#: src/blocks/content-slider/inspector.js:533
+#: src/blocks/logo-carousel/inspector.js:443
+#: src/blocks/post-slider/inspector.js:420
+#: src/blocks/testimonial-slider/inspector.js:644
+msgid "Max Width"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:150
+#: src/blocks/content-slider/inspector.js:548
+#: src/blocks/post-slider/inspector.js:435
+#: src/blocks/testimonial-slider/inspector.js:659
+msgid "Text Align"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:157
+#: src/blocks/content-slider/inspector.js:541
+#: src/blocks/post-slider/inspector.js:428
+msgid "V. Position"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:165
+#: src/blocks/content-slider/inspector.js:580
+#: src/blocks/logo-carousel/inspector.js:199
+#: src/blocks/photo-carousel/inspector.js:170
+#: src/blocks/post-slider/inspector.js:465
+#: src/blocks/videos-carousel/inspector.js:281
+msgid "Carousel Options"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:167
+#: src/blocks/content-slider/inspector.js:582
+#: src/blocks/logo-carousel/inspector.js:201
+#: src/blocks/photo-carousel/inspector.js:172
+#: src/blocks/post-slider/inspector.js:467
+#: src/blocks/videos-carousel/inspector.js:283
+msgid "Columns"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:175
+#: src/blocks/content-slider/inspector.js:590
+#: src/blocks/logo-carousel/inspector.js:209
+#: src/blocks/photo-carousel/inspector.js:180
+#: src/blocks/post-slider/inspector.js:475
+#: src/blocks/videos-carousel/inspector.js:291
+msgid "Columns Gap"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:183
+#: src/blocks/content-slider/inspector.js:598
+#: src/blocks/post-slider/inspector.js:483
+#: src/blocks/testimonial-slider/inspector.js:690
+msgid "Slider Options"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:185
+#: src/blocks/content-slider/inspector.js:600
+#: src/blocks/logo-carousel/inspector.js:218
+#: src/blocks/photo-carousel/inspector.js:189
+#: src/blocks/post-slider/inspector.js:485
+#: src/blocks/testimonial-slider/inspector.js:692
+#: src/blocks/videos-carousel/inspector.js:298
+msgid "Speed"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:194
+#: src/blocks/content-slider/inspector.js:608
+#: src/blocks/logo-carousel/inspector.js:226
+#: src/blocks/photo-carousel/inspector.js:197
+#: src/blocks/post-slider/inspector.js:493
+#: src/blocks/testimonial-slider/inspector.js:700
+#: src/blocks/videos-carousel/inspector.js:306
+msgid "Enable Infinite Loop"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:201
+#: src/blocks/content-slider/inspector.js:615
+#: src/blocks/logo-carousel/inspector.js:233
+#: src/blocks/photo-carousel/inspector.js:204
+#: src/blocks/post-slider/inspector.js:500
+#: src/blocks/testimonial-slider/inspector.js:707
+#: src/blocks/videos-carousel/inspector.js:313
+msgid "Enable Autoplay"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:208
+#: src/blocks/content-slider/inspector.js:622
+#: src/blocks/logo-carousel/inspector.js:240
+#: src/blocks/photo-carousel/inspector.js:211
+#: src/blocks/post-slider/inspector.js:507
+msgid "Autoplay Delay"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:217
+#: src/blocks/content-slider/inspector.js:631
+#: src/blocks/logo-carousel/inspector.js:249
+#: src/blocks/photo-carousel/inspector.js:220
+#: src/blocks/post-slider/inspector.js:516
+#: src/blocks/testimonial-slider/inspector.js:723
+#: src/blocks/videos-carousel/inspector.js:329
+msgid "Pause on Hover"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:222
+#: src/blocks/content-slider/inspector.js:636
+#: src/blocks/logo-carousel/inspector.js:254
+#: src/blocks/photo-carousel/inspector.js:225
+#: src/blocks/post-slider/inspector.js:521
+#: src/blocks/testimonial-slider/inspector.js:728
+#: src/blocks/videos-carousel/inspector.js:334
+msgid "Stop on Last Slide"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:229
+#: src/blocks/content-slider/inspector.js:643
+#: src/blocks/logo-carousel/inspector.js:261
+#: src/blocks/photo-carousel/inspector.js:232
+#: src/blocks/post-slider/inspector.js:528
+#: src/blocks/testimonial-slider/inspector.js:735
+#: src/blocks/videos-carousel/inspector.js:341
+msgid "Reverse Direction"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:236
+#: src/blocks/content-slider/inspector.js:650
+#: src/blocks/logo-carousel/inspector.js:268
+#: src/blocks/photo-carousel/inspector.js:239
+#: src/blocks/post-slider/inspector.js:535
+#: src/blocks/testimonial-slider/inspector.js:742
+#: src/blocks/videos-carousel/inspector.js:348
+msgid "Enable Keyboard Control"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:241
+#: src/blocks/content-slider/inspector.js:655
+#: src/blocks/logo-carousel/inspector.js:273
+#: src/blocks/photo-carousel/inspector.js:244
+#: src/blocks/post-slider/inspector.js:540
+#: src/blocks/testimonial-slider/inspector.js:747
+#: src/blocks/videos-carousel/inspector.js:353
+msgid "Enable Mouse Wheel Control"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:246
+#: src/blocks/content-slider/inspector.js:660
+#: src/blocks/logo-carousel/inspector.js:278
+#: src/blocks/photo-carousel/inspector.js:249
+#: src/blocks/post-slider/inspector.js:545
+#: src/blocks/testimonial-slider/inspector.js:752
+#: src/blocks/videos-carousel/inspector.js:358
+msgid "Show Navigation"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:251
+#: src/blocks/content-slider/inspector.js:665
+#: src/blocks/logo-carousel/inspector.js:283
+#: src/blocks/photo-carousel/inspector.js:254
+#: src/blocks/post-slider/inspector.js:550
+#: src/blocks/testimonial-slider/inspector.js:757
+#: src/blocks/videos-carousel/inspector.js:363
+msgid "Show Pagination"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:256
+#: src/blocks/content-slider/inspector.js:670
+#: src/blocks/logo-carousel/inspector.js:288
+#: src/blocks/photo-carousel/inspector.js:259
+#: src/blocks/post-slider/inspector.js:555
+#: src/blocks/testimonial-slider/inspector.js:762
+#: src/blocks/videos-carousel/inspector.js:368
+msgid "Effects"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:260
+#: src/blocks/content-slider/inspector.js:674
+#: src/blocks/post-slider/inspector.js:559
+#: src/blocks/testimonial-slider/inspector.js:764
+msgid "Slide Effect"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:264
+#: src/blocks/content-slider/inspector.js:678
+#: src/blocks/post-slider/inspector.js:563
+#: src/blocks/testimonial-slider/inspector.js:768
+msgid "Use background to see the effects properly."
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:268
+#: src/blocks/content-slider/inspector.js:682
+#: src/blocks/post-slider/inspector.js:567
+#: src/blocks/testimonial-slider/inspector.js:772
+msgid "Creative Styles"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:278
+#: src/blocks/content-slider/inspector.js:692
+#: src/blocks/logo-carousel/inspector.js:290
+#: src/blocks/photo-carousel/inspector.js:261
+#: src/blocks/post-slider/inspector.js:577
+#: src/blocks/videos-carousel/inspector.js:370
+msgid "Carousel Effect"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:282
+#: src/blocks/content-slider/inspector.js:696
+#: src/blocks/logo-carousel/inspector.js:294
+#: src/blocks/photo-carousel/inspector.js:265
+#: src/blocks/post-slider/inspector.js:581
+msgid "Save & reload to see the effect."
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:287
+#: src/blocks/any-content/inspector.js:387
+#: src/blocks/content-slider/inspector.js:701
+#: src/blocks/content-slider/inspector.js:1032
+#: src/blocks/logo-carousel/inspector.js:298
+#: src/blocks/logo-carousel/inspector.js:564
+#: src/blocks/photo-carousel/inspector.js:269
+#: src/blocks/photo-carousel/inspector.js:526
+#: src/blocks/post-slider/inspector.js:586
+#: src/blocks/post-slider/inspector.js:1038
+#: src/blocks/testimonial-slider/inspector.js:780
+#: src/blocks/testimonial-slider/inspector.js:1203
+#: src/blocks/videos-carousel/inspector.js:377
+#: src/blocks/videos-carousel/inspector.js:501
+msgid "Navigation"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:289
+#: src/blocks/content-slider/inspector.js:703
+#: src/blocks/logo-carousel/inspector.js:300
+#: src/blocks/photo-carousel/inspector.js:271
+#: src/blocks/post-slider/inspector.js:588
+#: src/blocks/testimonial-slider/inspector.js:782
+#: src/blocks/videos-carousel/inspector.js:379
+msgid "Position Type"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:297
+#: src/blocks/content-slider/inspector.js:711
+#: src/blocks/logo-carousel/inspector.js:308
+#: src/blocks/logo-carousel/inspector.js:469
+#: src/blocks/photo-carousel/inspector.js:279
+#: src/blocks/photo-carousel/inspector.js:431
+#: src/blocks/post-slider/inspector.js:596
+#: src/blocks/testimonial-slider/inspector.js:790
+#: src/blocks/videos-carousel/inspector.js:387
+#: src/controls/boxshadow-control/index.js:77
+msgid "Position"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:305
+#: src/blocks/content-slider/inspector.js:719
+#: src/blocks/logo-carousel/inspector.js:316
+#: src/blocks/photo-carousel/inspector.js:287
+#: src/blocks/post-slider/inspector.js:604
+#: src/blocks/testimonial-slider/inspector.js:798
+#: src/blocks/videos-carousel/inspector.js:395
+msgid "Custom Navigation Icon"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:312
+#: src/blocks/content-slider/inspector.js:726
+#: src/blocks/logo-carousel/inspector.js:323
+#: src/blocks/photo-carousel/inspector.js:294
+#: src/blocks/post-slider/inspector.js:611
+#: src/blocks/testimonial-slider/inspector.js:805
+#: src/blocks/videos-carousel/inspector.js:402
+msgid "Icon Source"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:315
+#: src/blocks/content-slider/inspector.js:729
+#: src/blocks/logo-carousel/inspector.js:326
+#: src/blocks/photo-carousel/inspector.js:297
+#: src/blocks/post-slider/inspector.js:614
+#: src/blocks/testimonial-slider/inspector.js:808
+#: src/blocks/videos-carousel/inspector.js:405
+msgid "Library"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:316
+#: src/blocks/content-slider/inspector.js:730
+#: src/blocks/logo-carousel/inspector.js:327
+#: src/blocks/photo-carousel/inspector.js:298
+#: src/blocks/post-slider/inspector.js:615
+#: src/blocks/testimonial-slider/inspector.js:809
+#: src/blocks/videos-carousel/inspector.js:406
+msgid "Custom SVG"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:325
+#: src/blocks/content-slider/inspector.js:739
+#: src/blocks/logo-carousel/inspector.js:336
+#: src/blocks/photo-carousel/inspector.js:307
+#: src/blocks/post-slider/inspector.js:624
+#: src/blocks/testimonial-slider/inspector.js:818
+#: src/blocks/videos-carousel/inspector.js:415
+msgid "Prev Icon"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:332
+#: src/blocks/content-slider/inspector.js:746
+#: src/blocks/logo-carousel/inspector.js:343
+#: src/blocks/photo-carousel/inspector.js:314
+#: src/blocks/post-slider/inspector.js:631
+#: src/blocks/testimonial-slider/inspector.js:825
+#: src/blocks/videos-carousel/inspector.js:422
+msgid "Next Icon"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:343
+#: src/blocks/content-slider/inspector.js:757
+#: src/blocks/logo-carousel/inspector.js:354
+#: src/blocks/photo-carousel/inspector.js:325
+#: src/blocks/post-slider/inspector.js:642
+#: src/blocks/testimonial-slider/inspector.js:836
+#: src/blocks/videos-carousel/inspector.js:433
+msgid "Prev SVG Code"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:344
+#: src/blocks/any-content/inspector.js:350
+#: src/blocks/content-slider/inspector.js:758
+#: src/blocks/content-slider/inspector.js:764
+#: src/blocks/logo-carousel/inspector.js:355
+#: src/blocks/logo-carousel/inspector.js:361
+#: src/blocks/photo-carousel/inspector.js:326
+#: src/blocks/photo-carousel/inspector.js:332
+#: src/blocks/post-slider/inspector.js:643
+#: src/blocks/post-slider/inspector.js:649
+#: src/blocks/testimonial-slider/inspector.js:837
+#: src/blocks/testimonial-slider/inspector.js:843
+#: src/blocks/videos-carousel/inspector.js:434
+#: src/blocks/videos-carousel/inspector.js:440
+msgid "Paste your custom SVG codes here"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:349
+#: src/blocks/content-slider/inspector.js:763
+#: src/blocks/logo-carousel/inspector.js:360
+#: src/blocks/photo-carousel/inspector.js:331
+#: src/blocks/post-slider/inspector.js:648
+#: src/blocks/testimonial-slider/inspector.js:842
+#: src/blocks/videos-carousel/inspector.js:439
+msgid "Next SVG Code"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:361
+#: src/blocks/any-content/inspector.js:470
+#: src/blocks/content-slider/inspector.js:775
+#: src/blocks/content-slider/inspector.js:1114
+#: src/blocks/logo-carousel/inspector.js:372
+#: src/blocks/logo-carousel/inspector.js:646
+#: src/blocks/photo-carousel/inspector.js:343
+#: src/blocks/photo-carousel/inspector.js:608
+#: src/blocks/post-slider/inspector.js:660
+#: src/blocks/post-slider/inspector.js:1120
+#: src/blocks/testimonial-slider/inspector.js:854
+#: src/blocks/testimonial-slider/inspector.js:1285
+#: src/blocks/videos-carousel/inspector.js:451
+#: src/blocks/videos-carousel/inspector.js:583
+msgid "Pagination"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:364
+#: src/blocks/content-slider/inspector.js:778
+#: src/blocks/logo-carousel/inspector.js:375
+#: src/blocks/photo-carousel/inspector.js:346
+#: src/blocks/post-slider/inspector.js:663
+#: src/blocks/testimonial-slider/inspector.js:857
+#: src/blocks/videos-carousel/inspector.js:454
+msgid "Pagination Type"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:373
+#: src/blocks/content-slider/inspector.js:787
+#: src/blocks/logo-carousel/inspector.js:384
+#: src/blocks/photo-carousel/inspector.js:355
+#: src/blocks/post-slider/inspector.js:672
+#: src/blocks/testimonial-slider/inspector.js:866
+#: src/blocks/videos-carousel/inspector.js:463
+msgid "Dynamic Bullets"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:379
+#: src/blocks/content-slider/inspector.js:793
+#: src/blocks/logo-carousel/inspector.js:390
+#: src/blocks/photo-carousel/inspector.js:361
+#: src/blocks/post-slider/inspector.js:678
+#: src/blocks/testimonial-slider/inspector.js:872
+#: src/blocks/videos-carousel/inspector.js:469
+msgid "Changes not visible? save & reload to see the changes."
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:389
+#: src/blocks/any-content/inspector.js:507
+#: src/blocks/any-content/inspector.js:575
+#: src/blocks/content-slider/inspector.js:1034
+#: src/blocks/content-slider/inspector.js:1151
+#: src/blocks/content-slider/inspector.js:1219
+#: src/blocks/logo-carousel/inspector.js:566
+#: src/blocks/logo-carousel/inspector.js:683
+#: src/blocks/logo-carousel/inspector.js:751
+#: src/blocks/photo-carousel/inspector.js:528
+#: src/blocks/photo-carousel/inspector.js:645
+#: src/blocks/photo-carousel/inspector.js:713
+#: src/blocks/post-slider/inspector.js:1040
+#: src/blocks/post-slider/inspector.js:1157
+#: src/blocks/post-slider/inspector.js:1225
+#: src/blocks/testimonial-slider/inspector.js:1205
+#: src/blocks/testimonial-slider/inspector.js:1322
+#: src/blocks/testimonial-slider/inspector.js:1390
+#: src/blocks/videos-carousel/inspector.js:503
+#: src/blocks/videos-carousel/inspector.js:620
+#: src/blocks/videos-carousel/inspector.js:688
+msgid "Width"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:405
+#: src/blocks/content-slider/inspector.js:1050
+#: src/blocks/logo-carousel/inspector.js:510
+#: src/blocks/logo-carousel/inspector.js:582
+#: src/blocks/photo-carousel/inspector.js:472
+#: src/blocks/photo-carousel/inspector.js:544
+#: src/blocks/post-slider/inspector.js:1056
+#: src/blocks/testimonial-slider/inspector.js:1221
+#: src/blocks/videos-carousel/inspector.js:519
+msgid "Icon Size"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:415
+#: src/blocks/any-content/inspector.js:531
+#: src/blocks/any-content/inspector.js:599
+#: src/blocks/content-slider/inspector.js:948
+#: src/blocks/content-slider/inspector.js:1059
+#: src/blocks/content-slider/inspector.js:1175
+#: src/blocks/content-slider/inspector.js:1243
+#: src/blocks/logo-carousel/inspector.js:400
+#: src/blocks/logo-carousel/inspector.js:591
+#: src/blocks/logo-carousel/inspector.js:707
+#: src/blocks/logo-carousel/inspector.js:775
+#: src/blocks/photo-carousel/inspector.js:379
+#: src/blocks/photo-carousel/inspector.js:553
+#: src/blocks/photo-carousel/inspector.js:669
+#: src/blocks/photo-carousel/inspector.js:737
+#: src/blocks/post-slider/inspector.js:953
+#: src/blocks/post-slider/inspector.js:1065
+#: src/blocks/post-slider/inspector.js:1181
+#: src/blocks/post-slider/inspector.js:1249
+#: src/blocks/testimonial-slider/inspector.js:936
+#: src/blocks/testimonial-slider/inspector.js:1119
+#: src/blocks/testimonial-slider/inspector.js:1230
+#: src/blocks/testimonial-slider/inspector.js:1346
+#: src/blocks/testimonial-slider/inspector.js:1414
+#: src/blocks/videos-carousel/inspector.js:479
+#: src/blocks/videos-carousel/inspector.js:528
+#: src/blocks/videos-carousel/inspector.js:644
+#: src/blocks/videos-carousel/inspector.js:712
+msgid "Border Radius"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:425
+#: src/blocks/any-content/inspector.js:447
+#: src/blocks/any-content/inspector.js:523
+#: src/blocks/any-content/inspector.js:542
+#: src/blocks/any-content/inspector.js:560
+#: src/blocks/any-content/inspector.js:591
+#: src/blocks/any-content/inspector.js:610
+#: src/blocks/any-content/inspector.js:621
+#: src/blocks/content-slider/inspector.js:826
+#: src/blocks/content-slider/inspector.js:866
+#: src/blocks/content-slider/inspector.js:906
+#: src/blocks/content-slider/inspector.js:972
+#: src/blocks/content-slider/inspector.js:1002
+#: src/blocks/content-slider/inspector.js:1069
+#: src/blocks/content-slider/inspector.js:1091
+#: src/blocks/content-slider/inspector.js:1167
+#: src/blocks/content-slider/inspector.js:1186
+#: src/blocks/content-slider/inspector.js:1204
+#: src/blocks/content-slider/inspector.js:1235
+#: src/blocks/content-slider/inspector.js:1254
+#: src/blocks/content-slider/inspector.js:1265
+#: src/blocks/logo-carousel/inspector.js:477
+#: src/blocks/logo-carousel/inspector.js:601
+#: src/blocks/logo-carousel/inspector.js:623
+#: src/blocks/logo-carousel/inspector.js:699
+#: src/blocks/logo-carousel/inspector.js:718
+#: src/blocks/logo-carousel/inspector.js:736
+#: src/blocks/logo-carousel/inspector.js:767
+#: src/blocks/logo-carousel/inspector.js:786
+#: src/blocks/logo-carousel/inspector.js:797
+#: src/blocks/photo-carousel/inspector.js:439
+#: src/blocks/photo-carousel/inspector.js:563
+#: src/blocks/photo-carousel/inspector.js:585
+#: src/blocks/photo-carousel/inspector.js:661
+#: src/blocks/photo-carousel/inspector.js:680
+#: src/blocks/photo-carousel/inspector.js:698
+#: src/blocks/photo-carousel/inspector.js:729
+#: src/blocks/photo-carousel/inspector.js:748
+#: src/blocks/photo-carousel/inspector.js:759
+#: src/blocks/post-slider/inspector.js:826
+#: src/blocks/post-slider/inspector.js:868
+#: src/blocks/post-slider/inspector.js:910
+#: src/blocks/post-slider/inspector.js:977
+#: src/blocks/post-slider/inspector.js:1007
+#: src/blocks/post-slider/inspector.js:1075
+#: src/blocks/post-slider/inspector.js:1097
+#: src/blocks/post-slider/inspector.js:1173
+#: src/blocks/post-slider/inspector.js:1192
+#: src/blocks/post-slider/inspector.js:1210
+#: src/blocks/post-slider/inspector.js:1241
+#: src/blocks/post-slider/inspector.js:1260
+#: src/blocks/post-slider/inspector.js:1271
+#: src/blocks/testimonial-slider/inspector.js:897
+#: src/blocks/testimonial-slider/inspector.js:980
+#: src/blocks/testimonial-slider/inspector.js:1018
+#: src/blocks/testimonial-slider/inspector.js:1060
+#: src/blocks/testimonial-slider/inspector.js:1143
+#: src/blocks/testimonial-slider/inspector.js:1173
+#: src/blocks/testimonial-slider/inspector.js:1240
+#: src/blocks/testimonial-slider/inspector.js:1262
+#: src/blocks/testimonial-slider/inspector.js:1338
+#: src/blocks/testimonial-slider/inspector.js:1357
+#: src/blocks/testimonial-slider/inspector.js:1375
+#: src/blocks/testimonial-slider/inspector.js:1406
+#: src/blocks/testimonial-slider/inspector.js:1425
+#: src/blocks/testimonial-slider/inspector.js:1436
+#: src/blocks/videos-carousel/inspector.js:538
+#: src/blocks/videos-carousel/inspector.js:560
+#: src/blocks/videos-carousel/inspector.js:636
+#: src/blocks/videos-carousel/inspector.js:655
+#: src/blocks/videos-carousel/inspector.js:673
+#: src/blocks/videos-carousel/inspector.js:704
+#: src/blocks/videos-carousel/inspector.js:723
+#: src/blocks/videos-carousel/inspector.js:734
+#: src/controls/boxshadow-control/index.js:101
+msgid "Color"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:434
+#: src/blocks/any-content/inspector.js:456
+#: src/blocks/content-slider/inspector.js:985
+#: src/blocks/content-slider/inspector.js:1015
+#: src/blocks/content-slider/inspector.js:1078
+#: src/blocks/content-slider/inspector.js:1100
+#: src/blocks/logo-carousel/inspector.js:484
+#: src/blocks/logo-carousel/inspector.js:610
+#: src/blocks/logo-carousel/inspector.js:632
+#: src/blocks/photo-carousel/inspector.js:446
+#: src/blocks/photo-carousel/inspector.js:572
+#: src/blocks/photo-carousel/inspector.js:594
+#: src/blocks/post-slider/inspector.js:990
+#: src/blocks/post-slider/inspector.js:1020
+#: src/blocks/post-slider/inspector.js:1084
+#: src/blocks/post-slider/inspector.js:1106
+#: src/blocks/testimonial-slider/inspector.js:1156
+#: src/blocks/testimonial-slider/inspector.js:1186
+#: src/blocks/testimonial-slider/inspector.js:1249
+#: src/blocks/testimonial-slider/inspector.js:1271
+#: src/blocks/videos-carousel/inspector.js:493
+#: src/blocks/videos-carousel/inspector.js:547
+#: src/blocks/videos-carousel/inspector.js:569
+msgid "Background"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:473
+#: src/blocks/any-content/inspector.js:483
+#: src/blocks/content-slider/inspector.js:1117
+#: src/blocks/content-slider/inspector.js:1127
+#: src/blocks/logo-carousel/inspector.js:649
+#: src/blocks/logo-carousel/inspector.js:659
+#: src/blocks/photo-carousel/inspector.js:611
+#: src/blocks/photo-carousel/inspector.js:621
+#: src/blocks/post-slider/inspector.js:1123
+#: src/blocks/post-slider/inspector.js:1133
+#: src/blocks/testimonial-slider/inspector.js:881
+#: src/blocks/testimonial-slider/inspector.js:927
+#: src/blocks/testimonial-slider/inspector.js:1102
+#: src/blocks/testimonial-slider/inspector.js:1288
+#: src/blocks/testimonial-slider/inspector.js:1298
+#: src/blocks/videos-carousel/inspector.js:586
+#: src/blocks/videos-carousel/inspector.js:596
+msgid "Size"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:494
+#: src/blocks/content-slider/inspector.js:1138
+#: src/blocks/logo-carousel/inspector.js:670
+#: src/blocks/photo-carousel/inspector.js:632
+#: src/blocks/post-slider/inspector.js:1144
+#: src/blocks/testimonial-slider/inspector.js:1309
+#: src/blocks/videos-carousel/inspector.js:607
+#: src/controls/switcher-control/index.js:10
+#: src/controls/typography-control/constants.js:36
+msgid "Normal"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:498
+#: src/blocks/content-slider/inspector.js:1142
+#: src/blocks/logo-carousel/inspector.js:674
+#: src/blocks/photo-carousel/inspector.js:636
+#: src/blocks/post-slider/inspector.js:1148
+#: src/blocks/testimonial-slider/inspector.js:1313
+#: src/blocks/videos-carousel/inspector.js:611
+msgid "Active"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:549
+#: src/blocks/content-slider/inspector.js:1193
+#: src/blocks/logo-carousel/inspector.js:725
+#: src/blocks/photo-carousel/inspector.js:687
+#: src/blocks/post-slider/inspector.js:1199
+#: src/blocks/testimonial-slider/inspector.js:1364
+#: src/blocks/videos-carousel/inspector.js:662
+msgid "Divider Color"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:638
+#: src/blocks/before-after/inspector.js:439
+#: src/blocks/content-slider/inspector.js:1282
+#: src/blocks/logo-carousel/inspector.js:814
+#: src/blocks/photo-carousel/inspector.js:776
+#: src/blocks/post-slider/inspector.js:1288
+#: src/blocks/testimonial-slider/inspector.js:1453
+#: src/blocks/videos-carousel/inspector.js:751
+msgid "Info:"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:639
+msgid "Save and Refresh after Adding or Deleting any slide item to see the result."
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:642
+#: src/blocks/before-after/inspector.js:443
+#: src/blocks/content-slider/inspector.js:1286
+#: src/blocks/logo-carousel/inspector.js:818
+#: src/blocks/photo-carousel/inspector.js:780
+#: src/blocks/post-slider/inspector.js:1292
+#: src/blocks/testimonial-slider/inspector.js:1457
+#: src/blocks/videos-carousel/inspector.js:755
+msgid "Video Tutorials"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:647
+#: src/blocks/before-after/inspector.js:448
+#: src/blocks/content-slider/inspector.js:1291
+#: src/blocks/logo-carousel/inspector.js:823
+#: src/blocks/photo-carousel/inspector.js:785
+#: src/blocks/post-slider/inspector.js:1297
+#: src/blocks/testimonial-slider/inspector.js:1462
+#: src/blocks/videos-carousel/inspector.js:760
+msgid "Rate Us"
+msgstr ""
+
+#: src/blocks/any-content/inspector.js:652
+#: src/blocks/before-after/inspector.js:453
+#: src/blocks/content-slider/inspector.js:1296
+#: src/blocks/logo-carousel/inspector.js:828
+#: src/blocks/photo-carousel/inspector.js:790
+#: src/blocks/post-slider/inspector.js:1302
+#: src/blocks/testimonial-slider/inspector.js:1467
+#: src/blocks/videos-carousel/inspector.js:765
+msgid "Get Support"
+msgstr ""
+
+#: src/blocks/any-content/slide.js:18
+#: src/constants/index.js:461
+#: src/constants/index.js:544
+msgid "Slide"
+msgstr ""
+
+#: src/blocks/any-content/slide.js:19
+msgid "Acts as child for any content slider"
+msgstr ""
+
+#: src/blocks/any-content/slide.js:116
+#: src/blocks/content-slider/inspector.js:279
+#: src/blocks/logo-carousel/inspector.js:414
+#: src/blocks/photo-carousel/inspector.js:393
+#: src/blocks/post-slider/inspector.js:687
+#: src/blocks/testimonial-slider/inspector.js:364
+msgid "Background Type"
+msgstr ""
+
+#: src/blocks/any-content/slide.js:128
+#: src/blocks/content-slider/inspector.js:293
+#: src/blocks/post-slider/inspector.js:697
+#: src/blocks/testimonial-slider/inspector.js:378
+msgid "Background Color"
+msgstr ""
+
+#: src/blocks/any-content/slide.js:162
+#: src/blocks/content-slider/inspector.js:333
+#: src/blocks/post-slider/inspector.js:751
+#: src/blocks/testimonial-slider/inspector.js:418
+msgid "Enable Overlay"
+msgstr ""
+
+#: src/blocks/any-content/slide.js:173
+#: src/blocks/content-slider/inspector.js:347
+#: src/blocks/post-slider/inspector.js:760
+#: src/blocks/testimonial-slider/inspector.js:432
+msgid "Overlay Type"
+msgstr ""
+
+#: src/blocks/any-content/slide.js:184
+#: src/blocks/content-slider/inspector.js:360
+#: src/blocks/logo-carousel/inspector.js:517
+#: src/blocks/photo-carousel/inspector.js:479
+#: src/blocks/post-slider/inspector.js:769
+#: src/blocks/testimonial-slider/inspector.js:445
+msgid "Overlay Color"
+msgstr ""
+
+#: src/blocks/any-content/slide.js:206
+#: src/blocks/content-slider/inspector.js:389
+#: src/blocks/post-slider/inspector.js:787
+#: src/blocks/testimonial-slider/inspector.js:474
+msgid "Overlay Opacity"
+msgstr ""
+
+#: src/blocks/any-content/slide.js:222
+#: src/blocks/content-slider/inspector.js:407
+#: src/blocks/post-slider/inspector.js:727
+#: src/controls/upload-btn/index.js:19
+msgid "Upload Image"
+msgstr ""
+
+#: src/blocks/before-after/inspector.js:440
+#: src/blocks/content-slider/inspector.js:1283
+#: src/blocks/logo-carousel/inspector.js:815
+#: src/blocks/photo-carousel/inspector.js:777
+#: src/blocks/post-slider/inspector.js:1289
+#: src/blocks/testimonial-slider/inspector.js:1454
+#: src/blocks/videos-carousel/inspector.js:752
+msgid "Important links to get started."
+msgstr ""
+
+#: src/blocks/content-slider/edit.js:417
+msgid "subtitle…"
+msgstr ""
+
+#: src/blocks/content-slider/edit.js:428
+msgid "title…"
+msgstr ""
+
+#: src/blocks/content-slider/edit.js:439
+msgid "description…"
+msgstr ""
+
+#: src/blocks/content-slider/edit.js:450
+#: src/blocks/content-slider/inspector.js:254
+msgid "Button Label"
+msgstr ""
+
+#: src/blocks/content-slider/inspector.js:156
+msgid "Slide Items"
+msgstr ""
+
+#: src/blocks/content-slider/inspector.js:197
+#: src/blocks/content-slider/inspector.js:201
+#: src/blocks/testimonial-slider/inspector.js:199
+#: src/blocks/testimonial-slider/inspector.js:203
+#: src/blocks/videos-carousel/inspector.js:148
+#: src/blocks/videos-carousel/inspector.js:152
+msgid "Panel Title"
+msgstr ""
+
+#: src/blocks/content-slider/inspector.js:211
+msgid "Slide Content"
+msgstr ""
+
+#: src/blocks/content-slider/inspector.js:213
+#: src/blocks/content-slider/inspector.js:800
+msgid "Subtitle"
+msgstr ""
+
+#: src/blocks/content-slider/inspector.js:222
+msgid "Skip to hide subtitle"
+msgstr ""
+
+#: src/blocks/content-slider/inspector.js:223
+msgid "Enter subtitle here…"
+msgstr ""
+
+#: src/blocks/content-slider/inspector.js:226
+#: src/blocks/post-slider/inspector.js:842
+#: src/constants/index.js:637
+msgid "Title"
+msgstr ""
+
+#: src/blocks/content-slider/inspector.js:235
+msgid "Skip to hide title"
+msgstr ""
+
+#: src/blocks/content-slider/inspector.js:236
+msgid "Enter title here…"
+msgstr ""
+
+#: src/blocks/content-slider/inspector.js:240
+#: src/blocks/content-slider/inspector.js:881
+msgid "Description"
+msgstr ""
+
+#: src/blocks/content-slider/inspector.js:249
+msgid "Skip to hide description"
+msgstr ""
+
+#: src/blocks/content-slider/inspector.js:250
+msgid "Enter description here…"
+msgstr ""
+
+#: src/blocks/content-slider/inspector.js:263
+msgid "Skip to hide button"
+msgstr ""
+
+#: src/blocks/content-slider/inspector.js:266
+msgid "Button Link"
+msgstr ""
+
+#: src/blocks/content-slider/inspector.js:277
+#: src/blocks/testimonial-slider/inspector.js:362
+msgid "Content Background"
+msgstr ""
+
+#: src/blocks/content-slider/inspector.js:490
+#: src/blocks/testimonial-slider/inspector.js:611
+#: src/blocks/videos-carousel/inspector.js:228
+msgid "Add Slide Item"
+msgstr ""
+
+#: src/blocks/content-slider/inspector.js:507
+#: src/blocks/logo-carousel/inspector.js:175
+#: src/blocks/logo-carousel/inspector.js:397
+#: src/blocks/photo-carousel/inspector.js:146
+#: src/blocks/post-slider/inspector.js:394
+#: src/blocks/testimonial-slider/inspector.js:618
+#: src/blocks/videos-carousel/inspector.js:257
+msgid "Container"
+msgstr ""
+
+#: src/blocks/content-slider/inspector.js:555
+msgid "Subtitle Tag"
+msgstr ""
+
+#: src/blocks/content-slider/inspector.js:563
+#: src/blocks/post-slider/inspector.js:442
+msgid "Title Tag"
+msgstr ""
+
+#: src/blocks/content-slider/inspector.js:571
+msgid "Description Tag"
+msgstr ""
+
+#: src/blocks/content-slider/inspector.js:804
+#: src/blocks/content-slider/inspector.js:845
+#: src/blocks/content-slider/inspector.js:885
+#: src/blocks/content-slider/inspector.js:925
+#: src/blocks/post-slider/inspector.js:804
+#: src/blocks/post-slider/inspector.js:846
+#: src/blocks/post-slider/inspector.js:888
+#: src/blocks/post-slider/inspector.js:930
+#: src/blocks/testimonial-slider/inspector.js:906
+#: src/blocks/testimonial-slider/inspector.js:959
+#: src/blocks/testimonial-slider/inspector.js:997
+#: src/blocks/testimonial-slider/inspector.js:1039
+#: src/blocks/testimonial-slider/inspector.js:1081
+msgid "Animation"
+msgstr ""
+
+#: src/blocks/content-slider/inspector.js:813
+#: src/blocks/content-slider/inspector.js:854
+#: src/blocks/content-slider/inspector.js:894
+#: src/blocks/content-slider/inspector.js:934
+#: src/blocks/post-slider/inspector.js:813
+#: src/blocks/post-slider/inspector.js:855
+#: src/blocks/post-slider/inspector.js:897
+#: src/blocks/post-slider/inspector.js:939
+#: src/blocks/testimonial-slider/inspector.js:916
+#: src/blocks/testimonial-slider/inspector.js:969
+#: src/blocks/testimonial-slider/inspector.js:1007
+#: src/blocks/testimonial-slider/inspector.js:1049
+#: src/blocks/testimonial-slider/inspector.js:1091
+msgid "Transition Delay"
+msgstr ""
+
+#: src/blocks/content-slider/inspector.js:832
+#: src/blocks/content-slider/inspector.js:872
+#: src/blocks/content-slider/inspector.js:912
+#: src/blocks/content-slider/inspector.js:945
+#: src/blocks/logo-carousel/inspector.js:490
+#: src/blocks/photo-carousel/inspector.js:452
+#: src/blocks/post-slider/inspector.js:824
+#: src/blocks/post-slider/inspector.js:866
+#: src/blocks/post-slider/inspector.js:908
+#: src/blocks/post-slider/inspector.js:950
+#: src/blocks/testimonial-slider/inspector.js:986
+#: src/blocks/testimonial-slider/inspector.js:1025
+#: src/blocks/testimonial-slider/inspector.js:1067
+msgid "Typography"
+msgstr ""
+
+#: src/blocks/content-slider/inspector.js:834
+#: src/blocks/content-slider/inspector.js:874
+#: src/blocks/content-slider/inspector.js:914
+#: src/blocks/testimonial-slider/inspector.js:889
+#: src/blocks/testimonial-slider/inspector.js:988
+#: src/blocks/testimonial-slider/inspector.js:1030
+#: src/blocks/testimonial-slider/inspector.js:1072
+msgid "Spacing"
+msgstr ""
+
+#: src/blocks/content-slider/inspector.js:841
+msgid "Title Settings"
+msgstr ""
+
+#: src/blocks/content-slider/inspector.js:921
+#: src/blocks/post-slider/inspector.js:926
+msgid "Button"
+msgstr ""
+
+#: src/blocks/logo-carousel/constants/index.js:9
+#: src/blocks/photo-carousel/constants/index.js:9
+#: src/constants/index.js:558
+msgid "Bullets"
+msgstr ""
+
+#: src/blocks/logo-carousel/constants/index.js:13
+#: src/blocks/photo-carousel/constants/index.js:13
+#: src/constants/index.js:562
+msgid "Fraction"
+msgstr ""
+
+#: src/blocks/logo-carousel/constants/index.js:20
+#: src/blocks/photo-carousel/constants/index.js:20
+msgid "Full"
+msgstr ""
+
+#: src/blocks/logo-carousel/constants/index.js:24
+#: src/blocks/photo-carousel/constants/index.js:24
+msgid "Auto"
+msgstr ""
+
+#: src/blocks/logo-carousel/constants/index.js:81
+#: src/blocks/photo-carousel/constants/index.js:78
+#: src/constants/index.js:590
+msgid "Top Left"
+msgstr ""
+
+#: src/blocks/logo-carousel/constants/index.js:85
+#: src/blocks/photo-carousel/constants/index.js:82
+#: src/constants/index.js:598
+msgid "Top Right"
+msgstr ""
+
+#: src/blocks/logo-carousel/constants/index.js:89
+#: src/blocks/photo-carousel/constants/index.js:86
+#: src/constants/index.js:606
+msgid "Bottom Left"
+msgstr ""
+
+#: src/blocks/logo-carousel/constants/index.js:93
+#: src/blocks/photo-carousel/constants/index.js:90
+#: src/constants/index.js:614
+msgid "Bottom Right"
+msgstr ""
+
+#: src/blocks/logo-carousel/constants/index.js:100
+#: src/blocks/photo-carousel/constants/index.js:97
+#: src/controls/border-control/index.js:94
+#: src/controls/border-control/index.js:201
+#: src/controls/border-control/index.js:308
+#: src/controls/res-box-control/index.js:103
+#: src/controls/res-box-control/index.js:210
+#: src/controls/res-box-control/index.js:317
+msgid "Top"
+msgstr ""
+
+#: src/blocks/logo-carousel/constants/index.js:104
+#: src/blocks/photo-carousel/constants/index.js:101
+#: src/controls/border-control/index.js:140
+#: src/controls/border-control/index.js:247
+#: src/controls/border-control/index.js:354
+#: src/controls/res-box-control/index.js:149
+#: src/controls/res-box-control/index.js:256
+#: src/controls/res-box-control/index.js:363
+msgid "Bottom"
+msgstr ""
+
+#: src/blocks/logo-carousel/edit.js:243
+#: src/blocks/photo-carousel/edit.js:243
+msgid "Edit Photos"
+msgstr ""
+
+#: src/blocks/logo-carousel/edit.js:304
+#: src/blocks/logo-carousel/save.js:92
+#: src/blocks/photo-carousel/edit.js:280
+#: src/blocks/photo-carousel/save.js:70
+#: src/blocks/photo-carousel/save.js:93
+msgid "No Caption"
+msgstr ""
+
+#: src/blocks/logo-carousel/edit.js:323
+msgid "Upload Clients Logos"
+msgstr ""
+
+#: src/blocks/logo-carousel/edit.js:324
+msgid "Upload multiple logos directly or from your media library"
+msgstr ""
+
+#: src/blocks/logo-carousel/inspector.js:131
+#: src/blocks/photo-carousel/inspector.js:128
+#: src/blocks/post-slider/inspector.js:262
+msgid "General"
+msgstr ""
+
+#: src/blocks/logo-carousel/inspector.js:133
+#: src/blocks/photo-carousel/inspector.js:130
+msgid "Show Caption"
+msgstr ""
+
+#: src/blocks/logo-carousel/inspector.js:138
+msgid "Link the Logos"
+msgstr ""
+
+#: src/blocks/logo-carousel/inspector.js:144
+msgid "Open Links in New Tab"
+msgstr ""
+
+#: src/blocks/logo-carousel/inspector.js:151
+msgid "Links"
+msgstr ""
+
+#: src/blocks/logo-carousel/inspector.js:157
+msgid "Logo Link"
+msgstr ""
+
+#: src/blocks/logo-carousel/inspector.js:158
+msgid "Enter the link for the logo."
+msgstr ""
+
+#: src/blocks/logo-carousel/inspector.js:216
+#: src/blocks/photo-carousel/inspector.js:187
+msgid "Slide Options"
+msgstr ""
+
+#: src/blocks/logo-carousel/inspector.js:423
+#: src/blocks/photo-carousel/inspector.js:402
+#: src/controls/background-control/index.js:126
+msgid "Solid Color"
+msgstr ""
+
+#: src/blocks/logo-carousel/inspector.js:441
+msgid "Logo"
+msgstr ""
+
+#: src/blocks/logo-carousel/inspector.js:450
+#: src/blocks/photo-carousel/inspector.js:370
+msgid "Hover Effect"
+msgstr ""
+
+#: src/blocks/logo-carousel/inspector.js:459
+#: src/blocks/photo-carousel/inspector.js:421
+msgid "Caption"
+msgstr ""
+
+#: src/blocks/logo-carousel/inspector.js:461
+#: src/blocks/photo-carousel/inspector.js:423
+msgid "Width Type"
+msgstr ""
+
+#: src/blocks/logo-carousel/inspector.js:501
+msgid "Links Overlay"
+msgstr ""
+
+#: src/blocks/logo-carousel/inspector.js:503
+#: src/blocks/photo-carousel/inspector.js:465
+msgid "Icon Container"
+msgstr ""
+
+#: src/blocks/logo-carousel/inspector.js:527
+#: src/blocks/logo-carousel/inspector.js:545
+#: src/blocks/photo-carousel/inspector.js:489
+#: src/blocks/photo-carousel/inspector.js:507
+msgid "Icon Color"
+msgstr ""
+
+#: src/blocks/logo-carousel/inspector.js:534
+#: src/blocks/logo-carousel/inspector.js:552
+#: src/blocks/photo-carousel/inspector.js:496
+#: src/blocks/photo-carousel/inspector.js:514
+msgid "Icon Background"
+msgstr ""
+
+#: src/blocks/photo-carousel/edit.js:299
+msgid "Upload Multiple Photos"
+msgstr ""
+
+#: src/blocks/photo-carousel/edit.js:300
+msgid "Upload multiple photos directly or from your media library"
+msgstr ""
+
+#: src/blocks/photo-carousel/inspector.js:135
+msgid "Enable Hover Overlay"
+msgstr ""
+
+#: src/blocks/photo-carousel/inspector.js:140
+msgid "Enable Lightbox"
+msgstr ""
+
+#: src/blocks/photo-carousel/inspector.js:143
+msgid "Lightbox works at the frontend only."
+msgstr ""
+
+#: src/blocks/photo-carousel/inspector.js:368
+msgid "Photo Container"
+msgstr ""
+
+#: src/blocks/photo-carousel/inspector.js:463
+msgid "Hover Overlay"
+msgstr ""
+
+#: src/blocks/post-slider/edit.js:363
+msgid "No Posts Found"
+msgstr ""
+
+#: src/blocks/post-slider/inspector.js:272
+msgid "Show Post Category"
+msgstr ""
+
+#: src/blocks/post-slider/inspector.js:279
+msgid "Show Post Title"
+msgstr ""
+
+#: src/blocks/post-slider/inspector.js:287
+msgid "Link Post Title"
+msgstr ""
+
+#: src/blocks/post-slider/inspector.js:295
+msgid "Show Post Excerpt"
+msgstr ""
+
+#: src/blocks/post-slider/inspector.js:302
+msgid "Show Read More Button"
+msgstr ""
+
+#: src/blocks/post-slider/inspector.js:309
+msgid "Posts Query"
+msgstr ""
+
+#: src/blocks/post-slider/inspector.js:311
+msgid "Query Type"
+msgstr ""
+
+#: src/blocks/post-slider/inspector.js:320
+#: src/blocks/post-slider/inspector.js:800
+#: src/constants/index.js:626
+msgid "Categories"
+msgstr ""
+
+#: src/blocks/post-slider/inspector.js:321
+msgid "select categories"
+msgstr ""
+
+#: src/blocks/post-slider/inspector.js:341
+msgid "Posts"
+msgstr ""
+
+#: src/blocks/post-slider/inspector.js:342
+msgid "select posts"
+msgstr ""
+
+#: src/blocks/post-slider/inspector.js:362
+msgid "Total Posts"
+msgstr ""
+
+#: src/blocks/post-slider/inspector.js:377
+#: src/blocks/post-slider/inspector.js:385
+#: src/controls/query-control/index.js:131
+msgid "Order By"
+msgstr ""
+
+#: src/blocks/post-slider/inspector.js:392
+msgid "Changes not visible? Save and reload."
+msgstr ""
+
+#: src/blocks/post-slider/inspector.js:418
+msgid "Post Content"
+msgstr ""
+
+#: src/blocks/post-slider/inspector.js:450
+msgid "Excerpt Length"
+msgstr ""
+
+#: src/blocks/post-slider/inspector.js:458
+msgid "Read More Label"
+msgstr ""
+
+#: src/blocks/post-slider/inspector.js:461
+msgid "Enter read more label"
+msgstr ""
+
+#: src/blocks/post-slider/inspector.js:685
+msgid "Container Default"
+msgstr ""
+
+#: src/blocks/post-slider/inspector.js:749
+msgid "Container Overlay"
+msgstr ""
+
+#: src/blocks/post-slider/inspector.js:884
+msgid "Excerpt"
+msgstr ""
+
+#: src/blocks/testimonial-slider/edit.js:456
+msgid "testimonial…"
+msgstr ""
+
+#: src/blocks/testimonial-slider/edit.js:470
+msgid "name…"
+msgstr ""
+
+#: src/blocks/testimonial-slider/edit.js:481
+msgid "designation…"
+msgstr ""
+
+#: src/blocks/testimonial-slider/inspector.js:160
+msgid "Testimonial Items"
+msgstr ""
+
+#: src/blocks/testimonial-slider/inspector.js:213
+msgid "Testimonial Content"
+msgstr ""
+
+#: src/blocks/testimonial-slider/inspector.js:246
+#: src/blocks/testimonial-slider/inspector.js:492
+msgid "Upload Author Photo"
+msgstr ""
+
+#: src/blocks/testimonial-slider/inspector.js:262
+msgid "Rating"
+msgstr ""
+
+#: src/blocks/testimonial-slider/inspector.js:276
+#: src/blocks/testimonial-slider/inspector.js:957
+msgid "Name"
+msgstr ""
+
+#: src/blocks/testimonial-slider/inspector.js:285
+msgid "Skip to hide name"
+msgstr ""
+
+#: src/blocks/testimonial-slider/inspector.js:286
+msgid "Enter name here…"
+msgstr ""
+
+#: src/blocks/testimonial-slider/inspector.js:289
+#: src/blocks/testimonial-slider/inspector.js:995
+msgid "Designation"
+msgstr ""
+
+#: src/blocks/testimonial-slider/inspector.js:298
+msgid "Skip to hide designation"
+msgstr ""
+
+#: src/blocks/testimonial-slider/inspector.js:299
+msgid "Enter designation here…"
+msgstr ""
+
+#: src/blocks/testimonial-slider/inspector.js:311
+msgid "Skip to hide testimonial"
+msgstr ""
+
+#: src/blocks/testimonial-slider/inspector.js:312
+msgid "Enter testimonial here…"
+msgstr ""
+
+#: src/blocks/testimonial-slider/inspector.js:316
+msgid "Show Social Profiles"
+msgstr ""
+
+#: src/blocks/testimonial-slider/inspector.js:326
+msgid "Add Social Profiles"
+msgstr ""
+
+#: src/blocks/testimonial-slider/inspector.js:336
+msgid " Profile Link"
+msgstr ""
+
+#: src/blocks/testimonial-slider/inspector.js:353
+msgid "Skip to hide"
+msgstr ""
+
+#: src/blocks/testimonial-slider/inspector.js:652
+msgid "Photo Position"
+msgstr ""
+
+#: src/blocks/testimonial-slider/inspector.js:666
+msgid "Name Tag"
+msgstr ""
+
+#: src/blocks/testimonial-slider/inspector.js:674
+msgid "Designation Tag"
+msgstr ""
+
+#: src/blocks/testimonial-slider/inspector.js:682
+msgid "Testimonial Tag"
+msgstr ""
+
+#: src/blocks/testimonial-slider/inspector.js:714
+#: src/blocks/videos-carousel/inspector.js:320
+msgid "Autoplay Transition Delay"
+msgstr ""
+
+#: src/blocks/testimonial-slider/inspector.js:879
+msgid "Star Rating"
+msgstr ""
+
+#: src/blocks/testimonial-slider/inspector.js:904
+msgid "Photo"
+msgstr ""
+
+#: src/blocks/testimonial-slider/inspector.js:1079
+msgid "Social Profiles"
+msgstr ""
+
+#: src/blocks/testimonial-slider/inspector.js:1110
+msgid "Items Spacing"
+msgstr ""
+
+#: src/blocks/videos-carousel/constants/index.js:8
+msgid "YouTube"
+msgstr ""
+
+#: src/blocks/videos-carousel/constants/index.js:10
+msgid "Vimeo (Pro)"
+msgstr ""
+
+#: src/blocks/videos-carousel/inspector.js:109
+msgid "Video Items"
+msgstr ""
+
+#: src/blocks/videos-carousel/inspector.js:163
+msgid "Video Source"
+msgstr ""
+
+#: src/blocks/videos-carousel/inspector.js:175
+msgid "Video ID"
+msgstr ""
+
+#: src/blocks/videos-carousel/inspector.js:184
+msgid "Enter Video ID"
+msgstr ""
+
+#: src/blocks/videos-carousel/inspector.js:188
+msgid "Custom Thumbnail (Pro)"
+msgstr ""
+
+#: src/blocks/videos-carousel/inspector.js:235
+msgid "Video Player"
+msgstr ""
+
+#: src/blocks/videos-carousel/inspector.js:237
+msgid "Autoplay on load"
+msgstr ""
+
+#: src/blocks/videos-carousel/inspector.js:242
+msgid "Mute volume"
+msgstr ""
+
+#: src/blocks/videos-carousel/inspector.js:247
+msgid "Hide Player Controls"
+msgstr ""
+
+#: src/blocks/videos-carousel/inspector.js:252
+msgid "Stop Showing Reels"
+msgstr ""
+
+#: src/blocks/videos-carousel/inspector.js:476
+msgid "Iframe"
+msgstr ""
+
+#: src/constants/index.js:12
+msgid "Desktop"
+msgstr ""
+
+#: src/constants/index.js:21
+msgid "Tablet"
+msgstr ""
+
+#: src/constants/index.js:30
+msgid "Mobile"
+msgstr ""
+
+#: src/constants/index.js:47
+#: src/controls/border-control/index.js:163
+#: src/controls/border-control/index.js:270
+#: src/controls/border-control/index.js:377
+#: src/controls/res-box-control/index.js:172
+#: src/controls/res-box-control/index.js:279
+#: src/controls/res-box-control/index.js:386
+msgid "Left"
+msgstr ""
+
+#: src/constants/index.js:69
+msgid "Center"
+msgstr ""
+
+#: src/constants/index.js:296
+#: src/constants/index.js:308
+msgid "Classic"
+msgstr ""
+
+#: src/constants/index.js:300
+#: src/constants/index.js:312
+msgid "Gradient"
+msgstr ""
+
+#: src/constants/index.js:354
+msgid "H1"
+msgstr ""
+
+#: src/constants/index.js:358
+msgid "H2"
+msgstr ""
+
+#: src/constants/index.js:362
+msgid "H3"
+msgstr ""
+
+#: src/constants/index.js:366
+msgid "H4"
+msgstr ""
+
+#: src/constants/index.js:370
+msgid "H5"
+msgstr ""
+
+#: src/constants/index.js:374
+msgid "H6"
+msgstr ""
+
+#: src/constants/index.js:378
+msgid "Div"
+msgstr ""
+
+#: src/constants/index.js:382
+msgid "P"
+msgstr ""
+
+#: src/constants/index.js:386
+msgid "Span"
+msgstr ""
+
+#: src/constants/index.js:405
+msgid "Slider"
+msgstr ""
+
+#: src/constants/index.js:409
+msgid "Carousel"
+msgstr ""
+
+#: src/constants/index.js:417
+#: src/constants/index.js:649
+#: src/controls/typography-control/constants.js:17
+#: src/controls/typography-control/constants.js:25
+msgid "None"
+msgstr ""
+
+#: src/constants/index.js:457
+msgid "Fade"
+msgstr ""
+
+#: src/constants/index.js:465
+#: src/constants/index.js:548
+msgid "Coverflow"
+msgstr ""
+
+#: src/constants/index.js:469
+msgid "Flip"
+msgstr ""
+
+#: src/constants/index.js:473
+msgid "Creative"
+msgstr ""
+
+#: src/constants/index.js:481
+msgid "Style 1"
+msgstr ""
+
+#: src/constants/index.js:485
+msgid "Style 2"
+msgstr ""
+
+#: src/constants/index.js:489
+msgid "Style 3"
+msgstr ""
+
+#: src/constants/index.js:493
+msgid "Style 4"
+msgstr ""
+
+#: src/constants/index.js:566
+msgid "Progress"
+msgstr ""
+
+#: src/constants/index.js:576
+msgid "Inside"
+msgstr ""
+
+#: src/constants/index.js:580
+msgid "Outside"
+msgstr ""
+
+#: src/constants/index.js:594
+msgid "Top Center"
+msgstr ""
+
+#: src/constants/index.js:602
+msgid "Center Center"
+msgstr ""
+
+#: src/constants/index.js:610
+msgid "Bottom Center"
+msgstr ""
+
+#: src/constants/index.js:622
+msgid "Latest"
+msgstr ""
+
+#: src/constants/index.js:630
+msgid "Individual"
+msgstr ""
+
+#: src/constants/index.js:636
+msgid "Date"
+msgstr ""
+
+#: src/constants/index.js:638
+msgid "Last modified date"
+msgstr ""
+
+#: src/constants/index.js:642
+msgid "ASC"
+msgstr ""
+
+#: src/constants/index.js:643
+msgid "DESC"
+msgstr ""
+
+#: src/constants/index.js:653
+msgid "Zoom In"
+msgstr ""
+
+#: src/constants/index.js:657
+msgid "Zoom Out"
+msgstr ""
+
+#: src/constants/index.js:661
+msgid "Rotate Clockwise"
+msgstr ""
+
+#: src/constants/index.js:665
+msgid "Rotate Anti Clockwise"
+msgstr ""
+
+#: src/constants/index.js:669
+#: src/controls/boxshadow-control/index.js:228
+msgid "Blur"
+msgstr ""
+
+#: src/constants/index.js:673
+msgid "Grayscale"
+msgstr ""
+
+#: src/constants/index.js:677
+msgid "Sepia"
+msgstr ""
+
+#: src/constants/index.js:681
+msgid "Invert"
+msgstr ""
+
+#: src/constants/index.js:685
+msgid "Brightness"
+msgstr ""
+
+#: src/controls/background-control/index.js:72
+#: src/controls/background-control/index.js:131
+#: src/controls/boxshadow-control/index.js:53
+#: src/controls/boxshadow-control/index.js:113
+#: src/controls/color-control/index.js:24
+#: src/controls/reset-btn/index.js:18
+msgid "Reset"
+msgstr ""
+
+#: src/controls/background-control/index.js:158
+#: src/controls/boxshadow-control/index.js:142
+#: src/controls/color-control/index.js:39
+msgid "Theme Colors"
+msgstr ""
+
+#: src/controls/background-control/index.js:190
+msgid "Gradient Color"
+msgstr ""
+
+#: src/controls/border-control/index.js:117
+#: src/controls/border-control/index.js:224
+#: src/controls/border-control/index.js:331
+#: src/controls/res-box-control/index.js:126
+#: src/controls/res-box-control/index.js:233
+#: src/controls/res-box-control/index.js:340
+msgid "Right"
+msgstr ""
+
+#: src/controls/boxshadow-control/index.js:170
+msgid "Horizontal"
+msgstr ""
+
+#: src/controls/boxshadow-control/index.js:199
+msgid "Vertical"
+msgstr ""
+
+#: src/controls/boxshadow-control/index.js:256
+msgid "Spread"
+msgstr ""
+
+#: src/controls/header-tabs/index.js:21
+msgid "Settings"
+msgstr ""
+
+#: src/controls/header-tabs/index.js:27
+msgid "Design"
+msgstr ""
+
+#: src/controls/icon-picker-control/index.js:32
+#: src/controls/icon-picker-control/index.js:43
+msgid "Select Icon"
+msgstr ""
+
+#: src/controls/icon-picker-control/index.js:37
+msgid "Replace"
+msgstr ""
+
+#: src/controls/icon-picker-control/index.js:48
+msgid "Search Icon"
+msgstr ""
+
+#: src/controls/query-control/index.js:54
+msgid "Source"
+msgstr ""
+
+#: src/controls/query-control/index.js:71
+msgid "Include Only"
+msgstr ""
+
+#: src/controls/query-control/index.js:78
+msgid "Exclude"
+msgstr ""
+
+#: src/controls/query-control/index.js:87
+msgid "By "
+msgstr ""
+
+#: src/controls/query-control/index.js:106
+msgid "Post Per Page"
+msgstr ""
+
+#: src/controls/query-control/index.js:119
+msgid "Offset"
+msgstr ""
+
+#: src/controls/query-control/index.js:140
+msgid "Sort Order"
+msgstr ""
+
+#: src/controls/switcher-control/index.js:14
+msgid "Hover"
+msgstr ""
+
+#: src/controls/tip-control/index.js:10
+msgid "Save and reload to see the carousel settings changes"
+msgstr ""
+
+#: src/controls/typography-control/constants.js:4
+#: src/controls/typography-control/constants.js:24
+#: src/controls/typography-control/fontpicker/index.js:18
+msgid "Default"
+msgstr ""
+
+#: src/controls/typography-control/constants.js:5
+msgid "100"
+msgstr ""
+
+#: src/controls/typography-control/constants.js:6
+msgid "200"
+msgstr ""
+
+#: src/controls/typography-control/constants.js:7
+msgid "300"
+msgstr ""
+
+#: src/controls/typography-control/constants.js:8
+msgid "400"
+msgstr ""
+
+#: src/controls/typography-control/constants.js:9
+msgid "500"
+msgstr ""
+
+#: src/controls/typography-control/constants.js:10
+msgid "600"
+msgstr ""
+
+#: src/controls/typography-control/constants.js:11
+msgid "700"
+msgstr ""
+
+#: src/controls/typography-control/constants.js:12
+msgid "800"
+msgstr ""
+
+#: src/controls/typography-control/constants.js:13
+msgid "900"
+msgstr ""
+
+#: src/controls/typography-control/constants.js:18
+msgid "aa"
+msgstr ""
+
+#: src/controls/typography-control/constants.js:19
+msgid "Aa"
+msgstr ""
+
+#: src/controls/typography-control/constants.js:20
+msgid "AA"
+msgstr ""
+
+#: src/controls/typography-control/constants.js:26
+msgid "Overline"
+msgstr ""
+
+#: src/controls/typography-control/constants.js:27
+msgid "Line Through"
+msgstr ""
+
+#: src/controls/typography-control/constants.js:28
+msgid "Underline"
+msgstr ""
+
+#: src/controls/typography-control/constants.js:30
+msgid "Underline Oveline"
+msgstr ""
+
+#: src/controls/typography-control/constants.js:37
+msgid "Italic"
+msgstr ""
+
+#: src/controls/typography-control/fontpicker/index.js:54
+msgid "Font Family"
+msgstr ""
+
+#: src/controls/typography-control/index.js:97
+msgid "Font Size"
+msgstr ""
+
+#: src/controls/typography-control/index.js:263
+msgid "Font Weight"
+msgstr ""
+
+#: src/controls/typography-control/index.js:277
+msgid "Font Style"
+msgstr ""
+
+#: src/controls/typography-control/index.js:304
+msgid "Text Decoration"
+msgstr ""
+
+#: src/controls/typography-control/index.js:316
+msgid "Text Transform"
+msgstr ""
+
+#: src/controls/typography-control/index.js:342
+msgid "Line Height"
+msgstr ""
+
+#: src/controls/typography-control/index.js:504
+msgid "Letter Spacing"
+msgstr ""
+
+#: src/patterns/index.js:57
+msgid "GutSlider Demos"
+msgstr ""
+
+#: src/blocks/any-content/block.json
+msgctxt "block title"
+msgid "Flexible"
+msgstr ""
+
+#: src/blocks/any-content/block.json
+msgctxt "block description"
+msgid "Slide any content in sliding or carousel mode."
+msgstr ""
+
+#: src/blocks/before-after/block.json
+msgctxt "block title"
+msgid "Before After"
+msgstr ""
+
+#: src/blocks/before-after/block.json
+msgctxt "block description"
+msgid "Showcase Photos Comparison in different styles."
+msgstr ""
+
+#: src/blocks/before-after/block.json
+msgctxt "block keyword"
+msgid "image"
+msgstr ""
+
+#: src/blocks/before-after/block.json
+msgctxt "block keyword"
+msgid "photo comparison"
+msgstr ""
+
+#: src/blocks/before-after/block.json
+msgctxt "block keyword"
+msgid "compare images"
+msgstr ""
+
+#: src/blocks/before-after/block.json
+msgctxt "block keyword"
+msgid "image compare"
+msgstr ""
+
+#: src/blocks/before-after/block.json
+msgctxt "block keyword"
+msgid "image comparison"
+msgstr ""
+
+#: src/blocks/before-after/block.json
+msgctxt "block keyword"
+msgid "before after slider"
+msgstr ""
+
+#: src/blocks/before-after/block.json
+msgctxt "block keyword"
+msgid "before after"
+msgstr ""
+
+#: src/blocks/content-slider/block.json
+msgctxt "block title"
+msgid "Static"
+msgstr ""
+
+#: src/blocks/content-slider/block.json
+msgctxt "block description"
+msgid "Show custom static content in sliding or carousel mode."
+msgstr ""
+
+#: src/blocks/logo-carousel/block.json
+msgctxt "block title"
+msgid "Brand Logos"
+msgstr ""
+
+#: src/blocks/logo-carousel/block.json
+msgctxt "block description"
+msgid "Show logos in carousel mode."
+msgstr ""
+
+#: src/blocks/photo-carousel/block.json
+msgctxt "block title"
+msgid "Photos"
+msgstr ""
+
+#: src/blocks/photo-carousel/block.json
+msgctxt "block description"
+msgid "Show photos in carousel mode."
+msgstr ""
+
+#: src/blocks/post-slider/block.json
+msgctxt "block title"
+msgid "Blog Post"
+msgstr ""
+
+#: src/blocks/post-slider/block.json
+msgctxt "block description"
+msgid "Show blog posts in sliding mode."
+msgstr ""
+
+#: src/blocks/testimonial-slider/block.json
+msgctxt "block title"
+msgid "Testimonial"
+msgstr ""
+
+#: src/blocks/testimonial-slider/block.json
+msgctxt "block description"
+msgid "Show testimonials in sliding mode."
+msgstr ""
+
+#: src/blocks/videos-carousel/block.json
+msgctxt "block title"
+msgid "Videos"
+msgstr ""
+
+#: src/blocks/videos-carousel/block.json
+msgctxt "block description"
+msgid "Display videos in a carousel."
+msgstr ""

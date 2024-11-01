@@ -1,0 +1,204 @@
+[
+    {
+        "version": "2.7.6",
+        "date": "27 Oct, 2024",
+        "changes": {
+            "Added": ["Horizontal Align", "Margin for Navigation and Pagination"],
+            "Fixed": ["Scripts loading issue"],
+            "improvements": ["Code quality"]
+        }
+    },
+    {
+        "version": "2.7.5",
+        "date": "28 Sept, 2024",
+        "changes": {
+            "Added": ["Post Slider Block"],
+            "Fixed": ["Before After Slider style"],
+            "improvements": ["Code quality", "Simplify development process", "Improve performance", "Improved Dynamic CSS generation"],
+            "updated": ["Compatibility check with WordPress 6.6"]
+        }
+    },
+    {
+        "version": "2.7.4",
+        "date": "30 July, 2024",
+        "changes": {
+            "Added": ["Translation Ready"],
+            "Fixed": ["Admin Notice Not Closing", "Carousel Column Gap"],
+            "improvements": ["Code quality", "Simplify development process", "Improve performance"],
+            "updated": ["Compatibility check with WordPress 6.6"]
+        }
+    },
+    {
+        "version": "2.7.3",
+        "date": "8 July, 2024",
+        "changes": {
+            "Added": ["Select Tool: A selecting tool is added so that you can select the block easily"],
+            "Removed": ["Post Slider Block, a new improved version will be released soon"],
+            "Fixed": ["Compatibility check"]
+        }
+    },
+    {
+        "version": "2.7.1 ~ 2.7.2",
+        "date": "20 April, 2024",
+        "changes": {
+            "updated": ["Compatibility check"]
+        }
+    },
+    {
+        "version": "2.7.0",
+        "date": "13 February, 2024",
+        "changes": {
+            "added": ["New Block: Videos Carousel"]
+        }
+    },
+    {
+        "version": "2.6.1",
+        "date": "18 January, 2024",
+        "changes": {
+            "fixed": ["apiVersion issue fixed", "before after slider block issue fixed"]
+        }
+    },
+    {
+        "version": "2.6.0",
+        "date": "16 January, 2024",
+        "changes": {
+            "added": ["New Block: Before After Slider"],
+            "updated": ["Blocks Icons"],
+            "improvements": ["Code quality"],
+            "removed": ["Swiper Js loading settings"]
+        }
+    },
+    {
+        "version": "2.5.5",
+        "date": "01 January, 2024",
+        "changes": {
+            "fixed": ["Font loading issues", "Custom icon issues"]
+        }
+    },
+    {
+        "version": "2.5.4",
+        "date": "02 December, 2023",
+        "changes": {
+            "added": ["Duplicating option for Fixed Content & Testimonial Slider blocks", "Custom Transition Delay time"],
+            "fixed": ["Custom Icon Size issue", "Inner Content width issue"],
+            "improvements": ["Block Preview Image"]
+        }
+    },
+    {
+        "version": "2.5.3",
+        "date": "13 November, 2023",
+        "changes": {
+            "added": ["Default theme colors palette added", "Custom preview image for blocks"],
+            "fixed": ["Duplicating issue fixed", "Multiple fonts loading issue fixed"],
+            "improvements": ["Short the block names"]
+        }
+    },
+    {
+        "version": "2.5.2",
+        "date": "11 November, 2023",
+        "changes": {
+            "fixed": [
+                "Table view issue fixed",
+                "Multiple fonts loading issue fixed",
+                "Minimum column for carousel set to 1",
+                "Default data issues for fixed content and testimonial sliders issues fixed"
+            ]
+        }
+    },
+    {
+        "version": "2.5.1",
+        "date": "10 November, 2023",
+        "changes": {
+            "added": [
+                "Button typography for fixed content slider",
+                "Logo carousel column number increase to 10",
+                "Logo carousel column gap increase to 200"
+            ],
+            "fixed": ["Button transition issue fixed"]
+        }
+    },
+    {
+        "version": "2.5.0",
+        "date": "04 November, 2023",
+        "changes": {
+            "new": ["New Block: Logo Carousel Block"],
+            "fixed": ["Initial Navigation Issue", "Initial Pagination Issue", "Font Loading Issue", "Dependency Issue"],
+            "improvements": ["Improve code quality"]
+        }
+    },
+    {
+        "version": "2.4.0",
+        "date": "01 November, 2023",
+        "changes": {
+            "new": ["New Block: Photo Carousel Block"]
+        }
+    },
+    {
+        "version": "2.3.0",
+        "date": "24 October, 2023",
+        "changes": {
+            "new": ["New Block: Post Slider"],
+            "improvements": ["Improve PHP code quality"]
+        }
+    },
+    {
+        "version": "2.2.2",
+        "date": "07 October, 2023",
+        "changes": {
+            "new": ["New Block: Testimonial Slider"],
+            "fixed": [
+                "Adding New Block Issue",
+                "Block Recovery Issue",
+                "Direct Editor Editing Issue",
+                "Navigation Icon Color & Size Issue"
+            ],
+            "improvements": ["Improve code quality", "Improve performance", "Blocks Icons"]
+        }
+    },
+    {
+        "version": "2.2.1",
+        "date": "30 September, 2023",
+        "changes": {
+            "fixed": ["Outer navigation issue fixed"]
+        }
+    },
+    {
+        "version": "2.2.0",
+        "date": "30 September, 2023",
+        "changes": {
+            "features": [
+                "Complete Navigation Settings",
+                "New Navigation Styles",
+                "New Navigation Controls",
+                "Complete Pagination Settings",
+                "New Pagination Styles",
+                "New Pagination Controls",
+                "New Smart Admin Panel",
+                "Options to Enable/Disable Blocks",
+                "Option to enable/disable Swiper JS + CSS"
+            ],
+            "improvements": ["Improve code quality", "Improve performance"]
+        }
+    },
+    {
+        "version": "2.1.0",
+        "date": "21 September, 2023",
+        "changes": {
+            "features": [
+                "Carousel style",
+                "Any content slider and carousel",
+                "Slider and carousel controls",
+                "Navigation colors",
+                "New slider effects"
+            ],
+            "improvements": ["Remove composer and make it simple", "Improve code quality", "Improve performance"]
+        }
+    },
+    {
+        "version": "1.0.0",
+        "date": "11 August, 2023",
+        "changes": {
+            "info": ["Initial release"]
+        }
+    }
+]
